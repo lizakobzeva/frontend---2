@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8080"
+const API_BASE = "http://192.144.15.171"
 
 export interface Training {
   id: number
